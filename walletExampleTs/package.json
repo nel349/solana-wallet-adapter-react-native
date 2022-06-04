@@ -28,7 +28,8 @@
     "metro-react-native-babel-preset": "^0.67.0",
     "react-test-renderer": "17.0.2",
     "typescript": "^4.4.4",
-    "@solana/wallet-adapter-react": "^0.15.3"
+    "@solana/wallet-adapter-react": "^0.15.3",
+    "@solana/wallet-adapter-wallets": "^0.16.1"
 
   },
   "resolutions": {
